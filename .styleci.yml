@@ -3,8 +3,7 @@ risky: true
 version: 7
 
 preset: symfony
-
-tab-width: 4
+b-width: 4
 
 use-tabs: false
 

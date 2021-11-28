@@ -2,5 +2,6 @@ default_route:
     path: /
     controller: App\Controller\PropertyController::search
     defaults:
-      path: /en
+      path: /uk
+      _locale: '%locale%'
       permanent: true

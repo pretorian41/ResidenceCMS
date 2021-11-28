@@ -4,8 +4,8 @@
 # Put parameters here that don't need to change on each machine where the app is deployed
 # https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
 parameters:
-    locale: 'en'
-    app_locales: 'en|ru|nl|bg'
+    locale: 'ru'
+    app_locales: 'ru|uk'
     images_directory: '%kernel.project_dir%/public/uploads/images'
     app_version: '1.9.1'
 
