@@ -19,9 +19,7 @@ final class LanguageType extends AbstractType
             'choice_loader' => null,
             'choices' => [
                 'Select language' => '',
-                'English' => 'en',
-                'Nederlands' => 'nl',
-                'Български' => 'bg',
+                'Украинский' => 'uk',
                 'Русский' => 'ru',
             ],
             'label' => 'label.locale',
