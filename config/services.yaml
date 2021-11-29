@@ -6,7 +6,7 @@
 parameters:
     locale: 'ru'
     app_locales: 'ru|uk'
-    images_directory: '%kernel.project_dir%/public/uploads/images'
+    images_directory: "%kernel.project_dir%/%env(PUBLIC_FOLDER)%uploads/images"
     app_version: '1.9.1'
 
 services:

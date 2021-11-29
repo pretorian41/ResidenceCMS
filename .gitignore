@@ -1,7 +1,12 @@
 /nbproject/
 /.idea/
 /public/uploads/images/*/*.*
-
+/build/*
+/public/*
+/uploads/*
+/images/*
+manifest.json
+favicon.ico
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
