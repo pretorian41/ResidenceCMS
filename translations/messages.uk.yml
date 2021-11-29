@@ -1,0 +1,253 @@
+menu.back: Назад
+menu.homepage: Головна
+menu.catalog: Каталог
+menu.add_new: Додати
+menu.settings: Налаштування
+menu.my_properties: Мої об'єкти
+menu.unpublished: Неопубліковане
+menu.admin: Адмін
+menu.account: Особистий кабінет
+menu.edit_profile: Редагувати профіль
+menu.login: Увійти
+menu.logout: Вийти
+"yes": Так
+no_items_found: Нічого не знайдено.
+view_details: Подивитись деталі
+show_on_map: Показати на мапі
+dashboard: Dashboard
+properties: Об'єкти
+locations: Місця
+cities: Міста
+neighborhoods: Мікрорайони
+districts: Райони
+metro_stations: Станції метро
+deal_types: Типи угод
+categories: Категорії
+features: Особливості
+currencies: Валюти
+pages: Сторінки
+users: Агенти
+menu: Меню
+property: Об'єкт
+city: Місто
+neighborhood: Мікрорайон
+district: Район
+metro_station: Станція метро
+deal_type: Тип угоди
+category: Категорія
+feature: Особливість
+page: Сторінка
+user: Користувач
+photo: Світлина
+message.created: Інформація успішно додана
+message.updated: Інформація успішно оновлена
+message.deleted: Інформація успішно видалена
+message.uploaded: Фото успішно завантажено
+message.was_sent: Ваше повідомлення було успішно надіслано. Спасибі.
+message.token_expired: Термін дії вашого токена минув. Спробуйте знову.
+message.password_has_been_reset: Пароль успішно змінено. Тепер можна увійти з новим паролем.
+message.emailed_reset_link: Ми надіслали на вашу електронну пошту посилання для скидання пароля!
+widget.contact_information: Контакти
+widget.agent: Агент
+widget.phone: Телефон
+widget.email: Email
+widget.search: Пошук
+widget.all_cities: Всі міста
+widget.all_deal_types: Усі типи угод
+widget.all_categories: Усі категорії
+widget.all_features: Всі особливості
+action.search: Пошук
+action.save: Зберегти зміни
+action.edit: Правити
+action.finish_editing: Завершити редагування
+action.edit_photos: Фото
+action.reorder_photos: Сортувати фото
+action.save_reordering: Зберегти порядок
+action.delete: Видалити
+action.sign_in: Увійти
+action.forgot_password: Забули пароль?
+action.send_reset_link: Надіслати
+action.add_menu_item: Додати пункт меню
+action.submit: Надіслати
+action.continue: Продовжити
+action.publish: Опублікувати
+action.unpublish: Зняти з публікації
+table.link_text: Текст посилання
+table.url: URL
+table.move: Перемістити
+table.city_name: Назва міста
+table.deal_type: Тип угоди
+table.category_name: Назва категорії
+table.currency_title: Назва валюти
+table.code: Код
+table.username: Ім'я користувача
+table.email: Email
+table.slug: Slug
+table.action: Дія
+confirmation.delete_item: Ви впевнені, що хочете видалити цей запис?
+confirmation.delete_photo: Ви впевнені, що хочете видалити це фото?
+confirmation.delete_user: Ви впевнені, що хочете видалити цього користувача?
+title.my_properties: Мої об'єкти
+title.properties_on_map: Всі об'єкти на карті
+title.login: Вхід у систему
+title.reset_password: Скидання пароля
+title.set_new_pass: Встановіть новий пароль
+title.pages: Сторінки
+title.latest_properties: Свіжі об'єкти
+title.add_page: Додавання сторінки
+title.edit_page: Редагування сторінки
+title.add_property: Додати об'єкт
+title.edit_property: Редагування об'єкта
+title.add_city: Додавання міста
+title.edit_city: Редагування міста
+title.add_neighborhood: Додавання мікрорайону
+title.add_district: Додавання району
+title.add_metro_station: Додавання станції метро
+title.edit_neighborhood: Редагування мікрорайону
+title.edit_district: Редагування району
+title.edit_metro_station: Редагування станції метро
+title.add_deal_type: Додавання нового типу угоди
+title.edit_deal_type: Редагування типу угоди
+title.add_category: Додавання нової категорії
+title.edit_category: Редагування категорії
+title.add_feature: Додавання нової особливості
+title.edit_feature: Редагування особливості
+title.add_currency: Додавання нової валюти
+title.edit_currency: Редагування валюти
+title.add_user: Додавання нового користувача
+title.edit_user: Редагування користувача
+title.add_menu_item: Додавання нового пункту меню
+title.edit_menu_item: Редагування пункту меню
+title.upload_photos: Завантаження фотографій
+title.settings: Налаштування
+title.settings.header_settings: Налаштування шапки
+title.settings.logo_image_label: Логотип сайту
+title.settings.header_image_label: Фон шапки
+label.remember_me: Залишатися в системі
+label.settings.name: Назва сайту
+label.settings.title: Заголовок сайту
+label.meta_title: Meta Title
+label.meta_description: Meta Description
+label.settings.code: Код користувача в секції head (Google Analytics і т.д.)
+label.settings.custom_footer_text: Користувальницький текст у футері
+label.settings.limit: Кількість елементів на сторінці
+label.settings.show_language_selector: Відображати вибір мови
+label.settings.currency: Валюта
+label.settings.fixed_top_navbar: Закріпити меню вгорі сторінки
+label.settings.show_similar_properties: Показувати схожі об'єкти
+label.settings.ymaps_key: API-ключ Яндекс.Карт
+label.settings.map_center: Центр картки
+label.settings.map_zoom: 'Масштаб картки: число від 0 (весь світ) до 19'
+label.settings.show_filter_by_city: Фільтр по місту
+label.settings.show_filter_by_deal_type: Фільтр за типом угоди
+label.settings.show_filter_by_category: Фільтр за категорією
+label.settings.show_filter_by_bedrooms: Фільтр за кількістю кімнат
+label.settings.show_filter_by_guests: Фільтр за кількістю гостей
+label.settings.show_filter_by_features: Фільтр за особливостями
+label.roles.admin: Права адміністратора
+label.full_name: ПІБ
+label.username: Логін
+label.phone: Телефон
+label.email: Email
+label.password: Пароль
+label.new_password: Новий пароль
+label.confirm_password: Підтвердьте новий пароль
+label.name: Ім'я
+label.slug: Slug
+label.currency_title: Назва валюти
+label.code: Код
+label.symbol_left: Символ ліворуч
+label.symbol_right: Символ праворуч
+label.photo: Фото
+label.city: Місто
+label.neighborhood: Мікрорайон
+label.district: Район
+label.neighborhood_name: Назва мікрорайону
+label.district_name: Назва району
+label.metro_station_name: Назва станції метро
+label.deal_type: Тип угоди
+label.category: Категорія
+label.features: Особливості
+label.priority_number: Номер пріоритету у списку
+label.priority_number.help: |-
+  The default priority is zero; relative to the default a priority can be higher (positive
+                      numbers) або lower (negative numbers).
+label.agent: Агент
+label.moderation_status: Статус модерації
+option.published: Опубліковано
+option.private: Не опубліковано
+option.pending: Чекає на модерацію
+option.rejected: Відхилено
+option.all: Усі статуси
+label.feature: Назва особливості
+label.custom_icon: Іконка (необов'язково)
+label.bathrooms_number: Кількість ванних кімнат
+label.bedrooms_number: Кількість кімнат
+label.max_guests: Максимум гостей
+label.guests: Гостей
+label.title: Заголовок
+label.link_text: Текст посилання
+label.url: URL
+label.locale: Мова
+label.new_tab: Відкривати у новій вкладці
+label.nofollow: Nofollow
+label.description: Опис
+label.address: Адреса
+label.latitude: Широта
+label.longitude: Довгота
+label.show_map: Показувати картку
+label.price: Ціна
+label.price_type: Тип ціни
+label.available_now: Доступно зараз
+label.content: Зміст
+label.show_in_menu: Додати в меню
+label.add_contact_form: Додати форму зворотнього зв'язку
+label.contact_email_address: Контактна адреса Email
+label.message: Повідомлення
+label.create_category: Створити категорію
+label.create_currency: Створити валюту
+label.create_feature: Створити особливість
+label.create_deal_type: Створити тип угоди
+label.create_city: Створити місто
+label.create_neighborhood: Створити мікрорайон
+label.create_district: Створити район
+label.create_metro_station: Створити станцію метро
+label.create_page: Створити сторінку
+label.create_property: Створити об'єкт
+label.create_user: Створити користувача
+label.save_and_create_new: Зберегти та додати ще
+label.sort_by: Сортувати за
+option.on: Увімк
+option.off: Вимк
+option.any: Не важливо
+option.bedroom: кімната
+option.bedrooms: кімнати
+option.priority: Пріоритет
+option.latest: Дата додавання
+placeholder.map_center_example: наприклад, 27.188534, -81.128735
+placeholder.select_city: Виберіть місто
+placeholder.select_neighborhood: Виберіть мікрорайон
+placeholder.select_district: Виберіть район
+placeholder.select_metro_station: Виберіть станцію метро
+placeholder.enter_email: Введіть Ваш email
+placeholder.example_icon: наприклад, <i class="fas fa-check"></i>
+property.location: Розташування
+property.deal_type: Тип угоди
+property.category: Категорія
+property.bathrooms: Ванні
+property.bedrooms: Кімнати
+property.max_guests: Макс. гостей
+property.available_now: Доступно зараз
+property.price: Ціна
+similar_properties: Схожі об'єкти
+all_rights_reserved: All Rights Reserved
+drag_photos: Перетягніть фотографії, щоб змінити порядок
+click_save_reordering: Натисніть 'Зберегти порядок', коли закінчите
+processing: Зачекайте...
+email.new_message: Нове повідомлення з вашого сайту
+resetting.email.subject: Скидання пароля
+resetting.email.message: |-
+  Вітаємо %username%!
+                      Для скидання пароля, будь ласка, пройдіть за посиланням %confirmationUrl%
+                      З найкращими побажаннями команда сайту.
+

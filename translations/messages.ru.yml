@@ -1,0 +1,260 @@
+# Loco yaml export: Simple YAML object
+# Project: messages.ru.xlf conversion
+# Release: Working copy
+# Locale: ru, Russian
+# Exported by: Unregistered user
+# Exported at: Mon, 29 Nov 2021 23:47:14 +0200
+---
+menu.back: Назад
+menu.homepage: Главная
+menu.catalog: Каталог
+menu.add_new: Добавить
+menu.settings: Настройки
+menu.my_properties: Мои объекты
+menu.unpublished: Неопубликованное
+menu.admin: Админ
+menu.account: Личный кабинет
+menu.edit_profile: Редактировать профиль
+menu.login: Войти
+menu.logout: Выйти
+"yes": Да
+no_items_found: Ничего не найдено.
+view_details: Посмотреть детали
+show_on_map: Показать на карте
+dashboard: Dashboard
+properties: Объекты
+locations: Места
+cities: Города
+neighborhoods: Микрорайоны
+districts: Районы
+metro_stations: Станции метро
+deal_types: Типы сделок
+categories: Категории
+features: Особенности
+currencies: Валюты
+pages: Страницы
+users: Агенты
+menu: Меню
+property: Объект
+city: Город
+neighborhood: Микрорайон
+district: Район
+metro_station: Станция метро
+deal_type: Тип сделки
+category: Категория
+feature: Особенность
+page: Страница
+user: Пользователь
+photo: Фотография
+message.created: Информация успешно добавлена
+message.updated: Информация успешно обновлена
+message.deleted: Информация успешно удалена
+message.uploaded: Фото успешно загружено
+message.was_sent: Ваше сообщение было успешно отправлено. Спасибо.
+message.token_expired: Срок действия вашего токена истёк. Попробуйте заново.
+message.password_has_been_reset: Пароль был успешно изменен. Теперь вы можете войти с новым паролем.
+message.emailed_reset_link: Мы отправили на вашу электронную почту ссылку для сброса пароля!
+widget.contact_information: Контакты
+widget.agent: Агент
+widget.phone: Телефон
+widget.email: Email
+widget.search: Поиск
+widget.all_cities: Все города
+widget.all_deal_types: Все типы сделок
+widget.all_categories: Все категории
+widget.all_features: Все особенности
+action.search: Поиск
+action.save: Сохранить изменения
+action.edit: Править
+action.finish_editing: Завершить редактирование
+action.edit_photos: Фото
+action.reorder_photos: Сортировать фото
+action.save_reordering: Сохранить порядок
+action.delete: Удалить
+action.sign_in: Войти
+action.forgot_password: Забыли пароль?
+action.send_reset_link: Отправить
+action.add_menu_item: Добавить пункт меню
+action.submit: Отправить
+action.continue: Продолжить
+action.publish: Опубликовать
+action.unpublish: Снять с публикации
+table.link_text: Текст ссылки
+table.url: URL
+table.move: Переместить
+table.city_name: Название города
+table.deal_type: Тип сделки
+table.category_name: Название категории
+table.currency_title: Название валюты
+table.code: Код
+table.username: Имя пользователя
+table.email: Email
+table.slug: Slug
+table.action: Действие
+confirmation.delete_item: Вы уверены, что хотите удалить эту запись?
+confirmation.delete_photo: Вы уверены, что хотите удалить это фото?
+confirmation.delete_user: Вы уверены, что хотите удалить этого пользователя?
+title.my_properties: Мои объекты
+title.properties_on_map: Все объекты на карте
+title.login: Вход в систему
+title.reset_password: Сброс пароля
+title.set_new_pass: Установите новый пароль
+title.pages: Страницы
+title.latest_properties: Свежие объекты
+title.add_page: Добавление страницы
+title.edit_page: Редактирование страницы
+title.add_property: Добавление объекта
+title.edit_property: Редактирование объекта
+title.add_city: Добавление города
+title.edit_city: Редактирование города
+title.add_neighborhood: Добавление микрорайона
+title.add_district: Добавление района
+title.add_metro_station: Добавление станции метро
+title.edit_neighborhood: Редактирование микрорайона
+title.edit_district: Редактирование района
+title.edit_metro_station: Редактирование станции метро
+title.add_deal_type: Добавление нового типа сделки
+title.edit_deal_type: Редактирование типа сделки
+title.add_category: Добавление новой категории
+title.edit_category: Редактирование категории
+title.add_feature: Добавление новой особенности
+title.edit_feature: Редактирование особенности
+title.add_currency: Добавление новой валюты
+title.edit_currency: Редактирование валюты
+title.add_user: Добавление нового пользователя
+title.edit_user: Редактирование пользователя
+title.add_menu_item: Добавление нового пункта меню
+title.edit_menu_item: Редактирование пункта меню
+title.upload_photos: Загрузка фотографий
+title.settings: Настройки
+title.settings.header_settings: Настройки шапки
+title.settings.logo_image_label: Логотип сайта
+title.settings.header_image_label: Фон шапки
+label.remember_me: Оставаться в системе
+label.settings.name: Название сайта
+label.settings.title: Заголовок сайта
+label.meta_title: Meta Title
+label.meta_description: Meta Description
+label.settings.code: Пользовательский код в секции head (Google Analytics и т.д.)
+label.settings.custom_footer_text: Пользовательский текст в футере
+label.settings.limit: Кол-во элементов на странице
+label.settings.show_language_selector: Отображать выбор языка
+label.settings.currency: Валюта
+label.settings.fixed_top_navbar: Закрепить меню вверху страницы
+label.settings.show_similar_properties: Показывать похожие объекты
+label.settings.ymaps_key: API-ключ Яндекс.Карт
+label.settings.map_center: Центр карты
+label.settings.map_zoom: 'Масштаб карты: число от 0 (весь мир) до 19'
+label.settings.show_filter_by_city: Фильтр по городу
+label.settings.show_filter_by_deal_type: Фильтр по типу сделки
+label.settings.show_filter_by_category: Фильтр по категории
+label.settings.show_filter_by_bedrooms: Фильтр по кол-ву комнат
+label.settings.show_filter_by_guests: Фильтр по кол-ву гостей
+label.settings.show_filter_by_features: Фильтр по особенностям
+label.roles.admin: Права администратора
+label.full_name: ФИО
+label.username: Логин
+label.phone: Телефон
+label.email: Email
+label.password: Пароль
+label.new_password: Новый пароль
+label.confirm_password: Подтвердите новый пароль
+label.name: Имя
+label.slug: Slug
+label.currency_title: Название валюты
+label.code: Код
+label.symbol_left: Символ слева
+label.symbol_right: Символ справа
+label.photo: Фото
+label.city: Город
+label.neighborhood: Микрорайон
+label.district: Район
+label.neighborhood_name: Название микрорайона
+label.district_name: Название района
+label.metro_station_name: Название станции метро
+label.deal_type: Тип сделки
+label.category: Категория
+label.features: Особенности
+label.priority_number: Номер приоритета в списке
+label.priority_number.help: |-
+  The default priority is zero; relative to the default a priority can be higher (positive
+                      numbers) or lower (negative numbers).
+label.agent: Агент
+label.moderation_status: Статус модерации
+option.published: Опубликовано
+option.private: Не опубликовано
+option.pending: Ожидает модерации
+option.rejected: Отклонено
+option.all: Все статусы
+label.feature: Название особенности
+label.custom_icon: Иконка (необязательно)
+label.bathrooms_number: Количество ванных
+label.bedrooms_number: Количество комнат
+label.max_guests: Максимум гостей
+label.guests: Гостей
+label.title: Заголовок
+label.link_text: Текст ссылки
+label.url: URL
+label.locale: Язык
+label.new_tab: Открывать в новой вкладке
+label.nofollow: Nofollow
+label.description: Описание
+label.address: Адрес
+label.latitude: Широта
+label.longitude: Долгота
+label.show_map: Показывать карту
+label.price: Цена
+label.price_type: Тип цены
+label.available_now: Доступно сейчас
+label.content: Содержание
+label.show_in_menu: Добавить в меню
+label.add_contact_form: Добавить форму обратной связи
+label.contact_email_address: Контактный адрес Email
+label.message: Сообщение
+label.create_category: Создать категорию
+label.create_currency: Создать валюту
+label.create_feature: Создать особенность
+label.create_deal_type: Создать тип сделки
+label.create_city: Создать город
+label.create_neighborhood: Создать микрорайон
+label.create_district: Создать район
+label.create_metro_station: Создать станцию метро
+label.create_page: Создать страницу
+label.create_property: Создать объект
+label.create_user: Создать пользователя
+label.save_and_create_new: Сохранить и добавить ещё
+label.sort_by: Сортировать по
+option.on: Вкл
+option.off: Выкл
+option.any: Не важно
+option.bedroom: комната
+option.bedrooms: комнаты
+option.priority: Приоритет
+option.latest: Дата добавления
+placeholder.map_center_example: например 27.188534, -81.128735
+placeholder.select_city: Выберите город
+placeholder.select_neighborhood: Выберите микрорайон
+placeholder.select_district: Выберите район
+placeholder.select_metro_station: Выберите станцию метро
+placeholder.enter_email: Введите ваш email
+placeholder.example_icon: например <i class="fas fa-check"></i>
+property.location: Местоположение
+property.deal_type: Тип сделки
+property.category: Категория
+property.bathrooms: Ванные
+property.bedrooms: Комнаты
+property.max_guests: Макс. гостей
+property.available_now: Доступно сейчас
+property.price: Цена
+similar_properties: Похожие объекты
+all_rights_reserved: All Rights Reserved
+drag_photos: Перетащите фотографии, чтобы изменить порядок
+click_save_reordering: Нажмите 'Сохранить порядкок', когда закончите
+processing: Подождите...
+email.new_message: Новое сообщение с вашего сайта
+resetting.email.subject: Сброс пароля
+resetting.email.message: |-
+  Приветствуем, %username%!
+                      Для сброса пароля, пожалуйста, пройдите по ссылке %confirmationUrl%
+                      С наилучшими пожеланиями, команда сайта.
+...
