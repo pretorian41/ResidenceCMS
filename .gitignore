@@ -14,6 +14,11 @@ favicon.ico
 /public/bundles/
 /var/
 /vendor/
+/.htaccess
+/entrypoints.json
+/index.php
+/libs/
+/robots.txt
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
